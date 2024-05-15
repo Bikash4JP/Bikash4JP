@@ -3,4 +3,4 @@
 - I am leaerning Programme from w3school and youtube courses
 - 🌱 I’m currently learning react native
 - I am studying IT Engineering in Yokohama System Engineering Campus
-- I am looking for the opportunity in japan especially inside Kanagawa & Tokio prefecture.
+- I am looking for the opportunity in japan especially inside Kanagawa & Tokiyo prefecture.
